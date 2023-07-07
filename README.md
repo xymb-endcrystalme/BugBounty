@@ -19,7 +19,7 @@ One of the examples is NoCom, which allowed for years for anyone with basic prog
    I don't really monitor packets, but if I discover a bug based on your actions, I'm still willing to pay a bounty.
 4. You're allowed to exploit the bug even after disclosure. I'll simply try to patch it as quickly as possible.
 5. ~~Only the first person who discloses a bug is eligible for the bounty.~~
-   If multiple people report the bug, the bounty will be split between them depending on my subjective judgement.
+   If multiple people report a bug, the bounty may be split between them depending on my subjective judgement.
 6. I will never use that bug to exploit any other server.
 7. Do not disclose the bug to the public before it's patched. If I get to learn about the bug from a YT video, no bounty.
 

@@ -13,7 +13,7 @@ One of the examples is NoCom, which allowed for years for anyone with basic prog
 6. Smaller bugs may qualify for part of the bounty depending on my personal judgement depending on severity.
 
 #### Rules of the bug bounty:
-1. Disclosed bugs will be used only to fix `6b6t.org` and `endcrystal.me`.
+1. Disclosed bugs will be used only to fix `6b6t.org` and `endcrystal.me` if the bug is in SecurityKaiiju.
 2. If you disclose a bug that doesn't qualify (ex. Folia bug patched in SecurityKaiiju), I'll never talk about it to anybody.
 3. ~~If I discover your bug, you have 3 days to contact me for a bounty. After all, it would be unfair if I quickly patched every bug I saw in packets and declined the bounty.~~
    I don't really monitor packets, but if I discover a bug based on your actions, I'm still willing to pay a bounty.

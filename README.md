@@ -11,6 +11,7 @@ One of the examples is NoCom, which allowed for years for anyone with basic prog
 4. I'm willing to make an exception for bugs that rely on player's interaction if said interaction is very likely to happen in reality.
 5. Lagging the server doesn't qualify. DDoSing is also lame.
 6. Smaller bugs may qualify for part of the bounty depending on my personal judgement depending on severity.
+7. Doesn’t concern auth.
 
 #### Rules of the bug bounty:
 1. Disclosed bugs will be used only to fix `6b6t.org` and `endcrystal.me` if the bug is in SecurityKaiiju.

@@ -11,7 +11,7 @@ One of the examples is NoCom, which allowed for years for anyone with basic prog
 4. I'm willing to make an exception for bugs that rely on player's interaction if said interaction is very likely to happen in reality.
 5. Lagging the server doesn't qualify. DDoSing is also lame.
 6. Smaller bugs may qualify for part of the bounty depending on my personal judgement depending on severity.
-7. Doesn’t concern auth.
+7. ~~Doesn’t concern auth.~~ Does concern auth, but I reserve the right to subjectively judge the severity and thus pay. "Log in as half of the server" would qualify for $500. But for example "log in as a random player once every few days" is gonna be way less severe.
 
 #### Rules of the bug bounty:
 1. Disclosed bugs will be used only to fix `6b6t.org` and `endcrystal.me` if the bug is in SecurityKaiiju.

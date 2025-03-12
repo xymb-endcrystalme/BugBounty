@@ -18,7 +18,7 @@ One of the examples is NoCom, which allowed for years for anyone with basic prog
 2. If you disclose a bug that doesn't qualify (ex. Folia bug patched in SecurityKaiiju), I'll never talk about it to anybody.
 3. ~~If I discover your bug, you have 3 days to contact me for a bounty. After all, it would be unfair if I quickly patched every bug I saw in packets and declined the bounty.~~
    I don't really monitor packets, but if I discover a bug based on your actions, I'm still willing to pay a bounty.
-4. You're allowed to exploit the bug even after disclosure. I'll simply try to patch it as quickly as possible.
+4. ~~You're allowed to exploit the bug even after disclosure. I'll simply try to patch it as quickly as possible.~~ Please limit yourself only to testing if possible, not to griefing the whole server.
 5. ~~Only the first person who discloses a bug is eligible for the bounty.~~
    If multiple people report a bug, the bounty may be split between them depending on my subjective judgement.
 6. I will never use that bug to exploit any other server.
